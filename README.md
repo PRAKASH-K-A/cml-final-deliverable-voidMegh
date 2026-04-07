@@ -21,4 +21,3 @@ Market Data Service is a high-performance, real-time market data distribution sy
 ✅ **Delta detection** to eliminate noise broadcasts  
 ✅ **Production-ready** thread-safe concurrent architecture
 
-## Architecture
